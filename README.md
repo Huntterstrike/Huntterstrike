@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on project related with videogame programming and cibersegurity
 - 📫 How to reach me gaizkalonso1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/his
+- ⚡ Lenny face: ᘳ´• 益 •`ᘰ
 
 <!---
 Huntterstrike/Huntterstrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
